@@ -1,0 +1,41 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "kFYgg0R/bhBx36tN8qmszo+riHM=",
+			"path": "github.com/olivere/elastic",
+			"revision": "2196066eb70512c7668452ba10e5d83a25249007",
+			"revisionTime": "2016-10-08T09:30:46Z"
+		},
+		{
+			"checksumSHA1": "9jjO5GjLa0XF/nfWihF02RoH4qc=",
+			"origin": "github.com/olivere/elastic/vendor/golang.org/x/net/context",
+			"path": "golang.org/x/net/context",
+			"revision": "2196066eb70512c7668452ba10e5d83a25249007",
+			"revisionTime": "2016-10-08T09:30:46Z"
+		},
+		{
+			"checksumSHA1": "WHc3uByvGaMcnSoI21fhzYgbOgg=",
+			"origin": "github.com/olivere/elastic/vendor/golang.org/x/net/context/ctxhttp",
+			"path": "golang.org/x/net/context/ctxhttp",
+			"revision": "2196066eb70512c7668452ba10e5d83a25249007",
+			"revisionTime": "2016-10-08T09:30:46Z"
+		},
+		{
+			"checksumSHA1": "lLdKOn9RPtFoTtPUNq5+sIInAiE=",
+			"origin": "github.com/olivere/elastic/vendor/gopkg.in/olivere/elastic.v3/backoff",
+			"path": "gopkg.in/olivere/elastic.v3/backoff",
+			"revision": "2196066eb70512c7668452ba10e5d83a25249007",
+			"revisionTime": "2016-10-08T09:30:46Z"
+		},
+		{
+			"checksumSHA1": "XQg6xG6l15Ke43KolthYYnVDCYo=",
+			"origin": "github.com/olivere/elastic/vendor/gopkg.in/olivere/elastic.v3/uritemplates",
+			"path": "gopkg.in/olivere/elastic.v3/uritemplates",
+			"revision": "2196066eb70512c7668452ba10e5d83a25249007",
+			"revisionTime": "2016-10-08T09:30:46Z"
+		}
+	],
+	"rootPath": "esBolt/src"
+}
